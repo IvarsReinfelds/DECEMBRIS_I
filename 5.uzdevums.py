@@ -9,19 +9,21 @@ def __init__ (self, Vakars, Diena, Rits):
     self.Diena=Diena
     self.Rits=Rits
 
-laiks=
-Diena=('12:00')
-Vakars='16:00-00:00'
-Rits='00:00-12:00'
+laiks='ievadiet laiku'
+Diena='diena1'
+Vakars='vakars1'
+Rits='rits1'
 
 diena1='Labdien'
 vakars1='Labvakar'
 rits1='Labrīt'
-if laiks
+if laiks  Diena
+    print(diena1)
+if laiks Vakars
+    print(vakars1)
+if laiks Rits
+    print(rits1) 
 
 
-vakars='Labvakar'
-diena='Labdien'
-rits='Labrīt'
 
 
